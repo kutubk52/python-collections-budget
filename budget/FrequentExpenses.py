@@ -21,6 +21,6 @@ fig, ax = plt.subplots()
 
 ax.bar(categories, count)
 
-ax.set_title('#Of Purchase by Catagory')
+ax.set_title('# Of Purchases by Catagory')
 
 plt.show()
